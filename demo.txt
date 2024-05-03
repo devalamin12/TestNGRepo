@@ -1,4 +1,3 @@
-package javasessions;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -19,8 +18,7 @@ public class ArrayListMethods {
 		empList.add(1, "Naveen");
 		empList.add(8, "Lisa");//IOB
 
-		System.out.println(empList.size());
-
+		
 		System.out.println(empList.size());
 		
 		System.out.println(empList);
@@ -91,5 +89,3 @@ public class ArrayListMethods {
 		
 		
 	}
-
-}
