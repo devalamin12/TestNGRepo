@@ -3,6 +3,10 @@ package javasessions;
 import java.util.ArrayList;
 import java.util.Collections;
 
+import java.util.ArrayList;
+import java.util.Collections;
+
+
 public class ArrayListMethods {
 
 	public static void main(String[] args) {
